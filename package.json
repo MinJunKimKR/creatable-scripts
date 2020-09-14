@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/johnwook/creatable-scripts/issues"
   },
-  "homepage": "https://github.com/johnwook/creatable-scripts#readme"
+  "homepage": "https://github.com/johnwook/creatable-scripts#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
